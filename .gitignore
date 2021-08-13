@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/GeneralStore/GeneralStore/obj/Debug/netcoreapp3.1
+/GeneralStore/.vs/GeneralStore/v16
+/GeneralStore/GeneralStore/obj
